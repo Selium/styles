@@ -1,0 +1,62 @@
+/* Styles */
+
+body {
+	background-color: grey;
+	color: black;
+	font-family: sans-serif;
+    border-style: dotted;
+    border-radius: 25px;
+    border-color: black;
+}
+em{ font-size: larger;
+    font-weight: bolder; 
+    
+}
+li{
+    font-weight: bolder;
+    font-stretch: expanded;
+    font-kerning: auto;
+    
+    
+}
+article {
+	max-width: 50em;
+	margin-left: auto;
+	margin-right: auto;
+	padding-top: 2em;
+	padding-bottom: 4em;
+}
+
+h1 {text-align: right;
+	font-size: 5em;
+	line-height: 1.;
+    color: white 
+}
+
+h2 {
+    text-align: center;
+	font-weight: bold;
+	text-transform: lowercase;
+	letter-spacing: -0.025em;    
+}
+h3{
+    font-size: larger;
+    }    
+}
+h4{
+    font-size: larger;
+    p{text-align: center;
+	margin: 0 0 em 0;
+    font-size: larger;
+    font-weight: bold;
+    color: black;
+        
+    }
+    p{
+        font-size: large;
+        font-weight: bold;
+        
+    }
+        
+    
+}
